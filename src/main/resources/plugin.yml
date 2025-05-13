@@ -1,0 +1,3 @@
+name: Mihariin
+version: '${project.version}'
+main: dev.felnull.mihariin.Mihariin
